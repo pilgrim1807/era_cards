@@ -1011,6 +1011,7 @@ button, input, select, textarea {
   -ms-user-select: none;
   user-select: none;   
   border-radius: 4px;
+  margin-left: 28px;
 }
 
 .btn:focus,
