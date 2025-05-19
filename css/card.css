@@ -8422,7 +8422,7 @@ z-index: 99999;
 overflow: hidden;
 }
 
-/* Дополнительные стили для .card_box (общие для карточек) */
+/* Дополнительные стили для карточек */
 .card_box {
   transition: border 0.5s ease;
 }
@@ -8580,9 +8580,6 @@ strong {
   transition: transform 0.3s ease;
 }
 
-.card_box:hover img {
-  transform: scale(1.04);
-}
 
 .card_box_small {
   min-width: 200px;
